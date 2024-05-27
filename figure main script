@@ -1,0 +1,45 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("zoom lib", "Synapse")
+
+
+--main
+
+local Main = Window:NewTab("lib zoom")
+local MainSection = Main:NewSection("figure main place to smoke niggas")
+
+MainSection:NewButton("figure main lock+legit", "slaps u", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/test-mianyt/main/locky"))();
+end)
+
+MainSection:NewButton("figure cframe gui ", "speeds ed", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zoomxvizo/test2/main/tes"))();
+end)
+
+MainSection:NewButton("figure q tool script ", "q tool", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/testermainty/main/testermaintyynig", true))()
+end)
+
+MainSection:NewButton("fake korblox ", "fake korblox", function()
+    local ply = game.Players.LocalPlayer
+local chr = ply.Character
+chr.RightLowerLeg.MeshId = "902942093"
+chr.RightLowerLeg.Transparency = "1"
+chr.RightUpperLeg.MeshId = "http://www.roblox.com/asset/?id=902942096"
+chr.RightUpperLeg.TextureID = "http://roblox.com/asset/?id=902843398"
+chr.RightFoot.MeshId = "902942089"
+chr.RightFoot.Transparency = "1"
+end)
+
+MainSection:NewButton("fake headless", "fake headless", function()
+    game.Players.LocalPlayer.Character.Head.Transparency = 1
+game.Players.LocalPlayer.Character.Head.Transparency = 1
+for i,v in pairs(game.Players.LocalPlayer.Character.Head:GetChildren()) do
+if (v:IsA("Decal")) then
+v.Transparency = 1
+end
+end
+end)
+
+MainSection:NewButton("figures fe invisble (maybe wont work) ", "invisble", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/usernameusername232323/testting-/main/tester"))();
+end)
